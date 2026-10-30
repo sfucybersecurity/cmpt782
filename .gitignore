@@ -223,3 +223,7 @@ __marimo__/
 secure_bank.db
 secure_bank.db-*
 chroma_db/
+
+# Lab runtime databases (regenerated at startup; contain flags)
+mcp_lab_vulnerable.db
+mcp_lab_tracking.db

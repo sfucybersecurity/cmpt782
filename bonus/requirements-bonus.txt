@@ -1,0 +1,6 @@
+# The bonus tasks need NOTHING beyond the Python standard library (3.8+).
+# The lab itself still needs ../requirements.txt to run backend.py / app.py.
+#
+# stdlib modules used: argparse, base64, binascii, collections, dataclasses,
+# datetime, glob, hashlib, hmac, http.server, importlib, ipaddress, json,
+# pickle, pickletools, re, sqlite3, threading, urllib
